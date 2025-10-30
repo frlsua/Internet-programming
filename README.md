@@ -15,4 +15,5 @@
     - игры дял освоения css - "flexbox defense" и "flexbox froggy": скриншот прохождения
 - homework5:
     - курс JavaScript: скриншот прохождения
-
+- homework6:
+    - курс JavaScript Intermediate: скриншот прохождения
