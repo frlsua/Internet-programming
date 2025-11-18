@@ -17,3 +17,6 @@
     - курс JavaScript: скриншот прохождения
 - homework6:
     - курс JavaScript Intermediate: скриншот прохождения
+- homework7:
+    - курс Node.js: скриншот прохождения
+    - курс TypeScript Fundamentals: скриншот прохождения
