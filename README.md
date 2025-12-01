@@ -20,3 +20,5 @@
 - homework7:
     - курс Node.js: скриншот прохождения
     - курс TypeScript Fundamentals: скриншот прохождения
+- homework8:
+    - курс React: скриншот прохождения
