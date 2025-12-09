@@ -22,3 +22,5 @@
     - курс TypeScript Fundamentals: скриншот прохождения
 - homework8:
     - курс React: скриншот прохождения
+- homework9:
+    - курс Next.js: скриншот прохождения
